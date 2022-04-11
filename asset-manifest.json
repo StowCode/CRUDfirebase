@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/StowCode/CRUDfirebase/static/css/main.db1aafc7.css",
-    "main.js": "/StowCode/CRUDfirebase/static/js/main.7ab68370.js",
-    "static/js/787.ecd16d4a.chunk.js": "/StowCode/CRUDfirebase/static/js/787.ecd16d4a.chunk.js",
-    "index.html": "/StowCode/CRUDfirebase/index.html",
-    "main.db1aafc7.css.map": "/StowCode/CRUDfirebase/static/css/main.db1aafc7.css.map",
-    "main.7ab68370.js.map": "/StowCode/CRUDfirebase/static/js/main.7ab68370.js.map",
-    "787.ecd16d4a.chunk.js.map": "/StowCode/CRUDfirebase/static/js/787.ecd16d4a.chunk.js.map"
+    "main.css": "/StowCode/CRUDfirebase2/static/css/main.db1aafc7.css",
+    "main.js": "/StowCode/CRUDfirebase2/static/js/main.bf81b367.js",
+    "static/js/787.ecd16d4a.chunk.js": "/StowCode/CRUDfirebase2/static/js/787.ecd16d4a.chunk.js",
+    "index.html": "/StowCode/CRUDfirebase2/index.html",
+    "main.db1aafc7.css.map": "/StowCode/CRUDfirebase2/static/css/main.db1aafc7.css.map",
+    "main.bf81b367.js.map": "/StowCode/CRUDfirebase2/static/js/main.bf81b367.js.map",
+    "787.ecd16d4a.chunk.js.map": "/StowCode/CRUDfirebase2/static/js/787.ecd16d4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db1aafc7.css",
-    "static/js/main.7ab68370.js"
+    "static/js/main.bf81b367.js"
   ]
 }
